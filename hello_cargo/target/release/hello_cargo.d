@@ -1,0 +1,1 @@
+/Users/sdkfile/Desktop/Rust\ Study/hello_cargo/target/release/hello_cargo: /Users/sdkfile/Desktop/Rust\ Study/hello_cargo/src/main.rs
